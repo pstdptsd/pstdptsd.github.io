@@ -1,0 +1,14 @@
+I"<p>Bash Expansion</p>
+
+<ul>
+  <li>
+    <p>brace expansion</p>
+  </li>
+  <li>tilde expansion</li>
+  <li>parameter and variable expansion</li>
+  <li>command substitution</li>
+  <li>arithmetic expansion</li>
+  <li>word splitting</li>
+  <li>filename expansion</li>
+</ul>
+:ET
